@@ -17,8 +17,6 @@ The dataset contains customer sales information that is cleaned and prepared for
 
 
 ---
-# 📁 Project Structure
-
 ## 🗂️ Project Structure
 
 | Path | Description |
