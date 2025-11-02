@@ -17,3 +17,13 @@ The dataset contains customer sales information that is cleaned and prepared for
 - 🧠 Prepare dataset for further machine learning or analytics tasks  
 
 ---
+# 📁 Project Structure
+
+| Path                 | Focus                                                                                                     |
+| -------------------- | --------------------------------------------------------------------------------------------------------- |
+| **data/**            | Contains the raw dataset(s) used for cleaning and analysis.                                               |
+| **notebooks/**       | Jupyter notebooks documenting step-by-step data cleaning, handling missing values, and outlier detection. |
+| **requirements.txt** | Lists all required Python dependencies for easy environment setup.                                        |
+| **.gitignore**       | Specifies files and directories to be excluded from version control.                                      |
+| **LICENSE**          | Project license (MIT).                                                                                    |
+| **README.md**        | Overview of project, objectives, and workflow.                                                            |
