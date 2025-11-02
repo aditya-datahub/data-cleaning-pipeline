@@ -1,0 +1,6 @@
+# Required Python libraries for data cleaning, outlier detection, and visualization
+
+pandas
+matplotlib
+seaborn
+scipy
