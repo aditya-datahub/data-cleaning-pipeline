@@ -1,7 +1,7 @@
 # 🧹 Data Cleaning Pipeline
 
 A Python-based data cleaning project that processes messy customer sales data using **pandas**, **matplotlib**, and **seaborn**.  
-It handles **missing values**, detects **outliers using Z-scores**, and visualizes data distributions with **boxplots and bar charts**.
+It handles **missing values**, detects **outliers using Z-scores**, and visualizes data distributions with **boxplots**.
 
 ---
 
